@@ -1,6 +1,6 @@
 # GitMoji
 
-## Emoji For Git 
+I created this repo so it will help people be more productive and make things easier/cool. 
 
 🎨
 `:art:`
