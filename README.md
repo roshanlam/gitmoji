@@ -3,241 +3,241 @@
 ## Emoji For Git 
 
 🎨
-:art:
+`:art:`
 Improve structure / format of the code.
 
 ⚡️
-:zap:
+`:zap:`
 Improve performance.
 
 🔥
-:fire:
+`:fire:`
 Remove code or files.
 
 🐛
-:bug:
+`:bug:`
 Fix a bug.
 
 🚑
-:ambulance:
+`:ambulance:`
 Critical hotfix.
 
 ✨
-:sparkles:
+`:sparkles:`
 Introduce new features.
 
 📝
-:pencil:
+`:pencil:`
 Write docs.
 
 🚀
-:rocket:
+`:rocket:`
 Deploy stuff.
 
 💄
-:lipstick:
+`:lipstick:`
 Add or update the UI and style files.
 
 🎉
-:tada:
+`:tada:`
 Begin a project.
 
 ✅
-:white_check_mark:
+`:white_check_mark:`
 Add or update tests.
 
 🔒
-:lock:
+`:lock:`
 Fix security issues.
 
 🔖
-:bookmark:
+`:bookmark:`
 Release / Version tags.
 
 🚨
-:rotating_light:
+`:rotating_light:`
 Remove linter warnings.
 
 🚧
-:construction:
+`:construction:`
 Work in progress.
 
 💚
-:green_heart:
+`:green_heart:`
 Fix CI Build.
 
 ⬇️
-:arrow_down:
+`:arrow_down:`
 Downgrade dependencies.
 
 ⬆️
-:arrow_up:
+`:arrow_up:`
 Upgrade dependencies.
 
 📌
-:pushpin:
+`:pushpin:`
 Pin dependencies to specific versions.
 
 👷
-:construction_worker:
+`:construction_worker:`
 Add or update CI build system.
 
 📈
-:chart_with_upwards_trend:
+`:chart_with_upwards_trend:`
 Add or update analytics or track code.
 
 ♻️
-:recycle:
+`:recycle:`
 Refactor code.
 
 ➕
-:heavy_plus_sign:
+`:heavy_plus_sign:`
 Add a dependency.
 
 ➖
-:heavy_minus_sign:
+`:heavy_minus_sign:`
 Remove a dependency.
 
 🔧
-:wrench:
+`:wrench:`
 Add or update configuration files.
 
 🔨
-:hammer:
+`:hammer:`
 Add or update build scripts.
 
 🌐
-:globe_with_meridians:
+`:globe_with_meridians:`
 Internationalization and localization.
 
 ✏️
-:pencil2:
+`:pencil2:`
 Fix typos.
 
 💩
-:poop:
+`:poop:`
 Write bad code that needs to be improved.
 
 ⏪
-:rewind:
+`:rewind:`
 Revert changes.
 
 🔀
-:twisted_rightwards_arrows:
+`:twisted_rightwards_arrows:`
 Merge branches.
 
 📦
-:package:
+`:package:`
 Add or update compiled files or packages.
 
 👽
-:alien:
+`:alien:`
 Update code due to external API changes.
 
 🚚
-:truck:
+`:truck:`
 Move or rename resources (e.g.: files, paths, routes).
 
 📄
-:page_facing_up:
+`:page_facing_up:`
 Add or update license.
 
 💥
-:boom:
+`:boom:`
 Introduce breaking changes.
 
 🍱
-:bento:
+`:bento:`
 Add or update assets.
 
 ♿️
-:wheelchair:
+`:wheelchair:`
 Improve accessibility.
 
 💡
-:bulb:
+`:bulb:`
 Add or update comments in source code.
 
 🍻
-:beers:
+`:beers:`
 Writing code drunkenly.
 
 💬
-:speech_balloon:
+`:speech_balloon:`
 Add or update text and literals.
 
 🗃
-:card_file_box:
+`:card_file_box:`
 Perform database related changes.
 
 🔊
-:loud_sound:
+`:loud_sound:`
 Add or update logs.
 
 🔇
-:mute:
+`:mute:`
 Remove logs.
 
 👥
-:busts_in_silhouette:
+`:busts_in_silhouette:`
 Add or update contributor(s).
 
 🚸
-:children_crossing:
+`:children_crossing:`
 Improve user experience / usability.
 
 🏗
-:building_construction:
+`:building_construction:`
 Make architectural changes.
 
 📱
-:iphone:
+`:iphone:`
 Work on responsive design.
 
 🤡
-:clown_face:
+`:clown_face:`
 Mock things.
 
 🥚
-:egg:
+`:egg:`
 Add or update an easter egg.
 
 🙈
-:see_no_evil:
+`:see_no_evil:`
 Add or update a .gitignore file.
 
 📸
-:camera_flash:
+`:camera_flash:`
 Add or update snapshots.
 
 ⚗
-:alembic:
+`:alembic:`
 Experiment new things
 
 🔍
-:mag:
+`:mag:`
 Improve SEO.
 
 🏷️
-:label:
+`:label:`
 Add or update types (Flow, TypeScript).
 
 🌱
-:seedling:
+`:seedling:`
 Add or update seed files.
 
 🚩
-:triangular_flag_on_post:
+`:triangular_flag_on_post:`
 Add, update, or remove feature flags.
 
 🥅
-:goal_net:
+`:goal_net:`
 Catching errors.
 
 💫
-:dizzy:
+`:dizzy:`
 Add or update animations and transitions.
 
 🗑
-:wastebasket:
+`:wastebasket:`
 Deprecating code that needs to be cleaned up.
