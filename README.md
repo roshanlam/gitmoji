@@ -44,7 +44,7 @@ Begin a project.
 
 ✅
 `:white_check_mark:`
-Add or update tests. Or finished doing something (like finished working on a feature)
+Add or update tests / Finished doing something (like finished working on a feature)
 
 🔒
 `:lock:`
